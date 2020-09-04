@@ -1,3 +1,31 @@
+# english_kidz
+
+Uygulamayı çalıştırmak için manage.py ile aynı dizinde olmanız gerekmektedir.
+
+python manage.py runserver yazarak ve devamına aşağıdaki metinden bakarak kurulumu gerçekleştirebilirsiniz.
+
+
+- Bu proje Sakarya Üniversitesi Bilgisayar Mühendisliği Bölümü'nün Bitirme Projesidir.
+- Mobil uygulamanın back end kısmıdır.
+
+
+
+Uygulama kodlarını incelemek için lib dizinine ilerleyin. 
+
+Sqlite , Django REST Framework kullanarak çok basit bir yapıda hazırlanmış standart CRUD işlemlerini gerçekleştiren bir backend olarak oluşturulmuştur.
+
+
+
+- Katkıda bulunanlar
+
+Alper Sarper
+Ali Özen
+
+
+
+
+
+
 ## To run in local python virtual environment:<br/>
 
 Create virtual environment inside of this directory or some else directory which is not inside of project. <br/>
