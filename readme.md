@@ -18,7 +18,7 @@ Sqlite , Django REST Framework kullanarak çok basit bir yapıda hazırlanmış 
 
 - Katkıda bulunanlar
 
-Alper Sarper
+Alper Sarper ,
 Ali Özen
 
 
